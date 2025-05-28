@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Jesus T.</h1>
-<h3 align="center">Passionate Programmer.</h3>
+<h3 align="center">Software Engineer</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jesust9140" alt="jesust9140" /></a> </p>
 
-- 🔭 I’m currently working on [LootDrop.com](TBD)
+- 🔭 I’m currently working on [LootPort.com](8 Month deadline)
 
-- 🌱 I’m currently learning **Javascript,React & C++**
+- 🌱 I’m currently learning **JavaScript, React & Node**
+
+- 👨‍💻 All of my projects are available at [TBA](TBA)
 
 - ⚡ Fun fact [I love gaming just as much as coding.](I love gaming just as much as coding.)
 
